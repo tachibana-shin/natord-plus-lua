@@ -1,3 +1,20 @@
+local unbooks = {
+    { name = "Vol 10: The End" },
+    { name = "Vol 23 Reverse" },
+    { name = "Vol 02: Special Edition" },
+    { name = "vol 3.1415: PI" },
+    { name = "Chapter 3.12" },
+    { name = "Vol 2: The Beginning" },
+    { name = "vol 3: Shin" },
+    { name = "Hacking Digest v99999999999999999999" },
+    { name = "Vol 1: Prologue" },
+    { name = "Vol 23" },
+    { name = "Chapter 3.014" },
+    { name = "Vol 002: Ultra Rare" },
+    { name = "vol 2: Lowercase Title" },
+    { name = "Hacking Digest v2" },
+    { name = "Vol   2: Extra Spaces" }
+}
 local expected_results = {
     "Chapter 3.014",
     "Chapter 3.12",
