@@ -2,7 +2,7 @@
 name = "natord-plus"
 version = "1.0.0"
 edition = "2021"
-authors = ["Tachibana Shin <shin@tachibana.dev>"]
+authors = ["Tachibana Shin <tachibshin@duck.com>"]
 license = "GPL-3.0"
 description = "An advanced strnatcmp algorithm (natural order - natord) with fixed-point support"
 repository = "https://github.com/tachibana-shin/natord-plus-lua"
