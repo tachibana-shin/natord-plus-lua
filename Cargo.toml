@@ -1,0 +1,22 @@
+[package]
+name = "natord-plus"
+version = "1.0.0"
+edition = "2021"
+authors = ["Tachibana Shin <shin@tachibana.dev>"]
+license = "GPL-3.0"
+description = "An advanced strnatcmp algorithm (natural order - natord) with fixed-point support"
+repository = "https://github.com/tachibana-shin/natord-plus-lua"
+keywords = ["natural-order", "natord", "string-comparison", "sorting", "algorithm"]
+categories = ["algorithms", "rust-patterns"]
+
+[lib]
+name = "natord_plus"
+path = "rust/src/lib.rs"
+
+[[example]]
+name = "basic"
+path = "rust/examples/basic.rs"
+
+[dependencies]
+
+[dev-dependencies]
