@@ -45,7 +45,7 @@ publishing {
                     developer {
                         id.set("tachibana-shin")
                         name.set("Tachibana Shin")
-                        email.set("shin@tachibana.dev")
+                        email.set("tachibshin@duck.com")
                     }
                 }
                 scm {
